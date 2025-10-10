@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "track_id": 1,
+      "level": "Intermediate",
+      "allocated_year": "2025",
+      "title": "Network Operations 2025",
+      "average_rating": 4.5,
+      "days_remaining": 30,
+      "trainees_count": 1,
+      "progress": 0,
+      "image": "https://vidyakosh.nic.in/storage/uploads/1749448681-network-operations.jpg",
+      "details_url": "https://example.com/courses/network-operations-2025"
+    },
+    {
+      "id": 2,
+      "track_id": 2,
+      "level": "Beginner",
+      "allocated_year": "2025",
+      "title": "Data Science Essentials",
+      "average_rating": 4.7,
+      "days_remaining": 45,
+      "trainees_count": 3,
+      "progress": 25,
+      "image": "https://vidyakosh.nic.in/storage/uploads/1749201127-microsoft-azure-certified-fundamentals.png",
+      "details_url": "https://example.com/courses/data-science-essentials"
+    }
+  ]
+}
