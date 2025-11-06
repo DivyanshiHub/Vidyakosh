@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:vidyakosh/routes/e_learning.dart';
-import 'package:vidyakosh/routes/training_calender.dart';
+import 'package:vidyakosh/screens/training_calendar_page.dart';
 import 'package:vidyakosh/routes/trainings.dart';
 import '../page/homeGradient.dart';
 import 'course.dart';
