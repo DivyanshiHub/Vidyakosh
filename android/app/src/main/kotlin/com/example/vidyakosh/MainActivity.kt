@@ -1,4 +1,4 @@
-package com.example.vidyakosh
+package com.vidyakosh
 
 import io.flutter.embedding.android.FlutterActivity
 
